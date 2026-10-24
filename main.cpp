@@ -1,7 +1,5 @@
 #include <iostream> 
 #include "mathsolver.h"
-using namespace std;
-
 int main(){
     MathSolver math_solver;
     while (true) {
